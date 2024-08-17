@@ -1,0 +1,12 @@
+#package installation
+import os
+from openpyxl import load_workbook
+import nltk
+from nltk.tokenize import word_tokenize
+import string
+import pathlib
+import textwrap
+!pip install -q -U google-generativeai
+import google.generativeai as genai
+from google.colab import userdata
+from IPython.display import Markdown, display
