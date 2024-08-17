@@ -32,7 +32,7 @@ This project focuses on creating an advanced review classification system that e
    ```
 3. **Install the required dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 4. **Run the main script:**
    ```bash
